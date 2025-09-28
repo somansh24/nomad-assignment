@@ -22,7 +22,7 @@ variable "nomad_pubkey" {
 variable "my_ip_cidr" {
   description = "Your public IP with /32 mask"
   type        = string
-  default     = "27.60.14.205/32"   # <-- replace manually each time
+  default     = "xx.xx.xx.xxx/32"   # <-- replace manually each time
 }
 
 
