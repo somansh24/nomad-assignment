@@ -1,3 +1,4 @@
+# -------- Function to give unique suffix -------
 resource "random_pet" "suffix" {
   length = 2
 }
